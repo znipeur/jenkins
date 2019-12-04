@@ -7,6 +7,6 @@ public class test {
     @Test
     public void testmain(){
         HelloWorld h = new HelloWorld();
-        assertEquals("HelloWorld",h.Hello())
+        assertEquals("HelloWorld",h.Hello());
     }
 }
